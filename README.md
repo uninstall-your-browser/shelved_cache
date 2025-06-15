@@ -1,3 +1,8 @@
+> [!warning]
+> It is not recommended you use this. 
+> It does work, but the issue it fixes was not really a design goal of the original.
+> I will likely not be updating this.
+
 # Shelved Cache
 
 [![Tests](https://github.com/mariushelf/shelved_cache/actions/workflows/cicd.yaml/badge.svg)](https://github.com/mariushelf/shelved_cache/actions/workflows/cicd.yaml)
